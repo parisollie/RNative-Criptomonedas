@@ -7,7 +7,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Development
 1. Clonar proyecto
 2. Instalar dependencias ```npm install```
-3. Ejecutar el proyecto ```npm run start```
+3. Ejecutar el proyecto ```npx react-native run-android```
 
 The aplication look like this :
 ![WhatsApp Image 2025-03-28 at 00 23 32](https://github.com/user-attachments/assets/12fce91b-c530-447c-9590-4e8f5428e6b9)
